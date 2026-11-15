@@ -1,0 +1,15 @@
+*.pdf
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+.git
+.vscode
+.venv
+__pycache__
+!user-manual.pdf
+!sn-article.pdf
